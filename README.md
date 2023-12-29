@@ -7,7 +7,7 @@ Application includes pages:
 
 
 ## Demo
-Demo available on following link: <a href="https://audit-panel-steel-eta.vercel.app/" target="_blank">https://audit-panel-steel-eta.vercel.app/</a>
+Demo available on following link: <a href="https://audit-tau.vercel.app/" target="_blank">https://audit-tau.vercel.app/</a>
 
 
 ## Install
